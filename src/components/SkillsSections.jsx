@@ -10,8 +10,33 @@ const skills=[
 
     //DATA SCIENCE SKILLS
     {name:"MySQL",level:90,category:"Data Science"},
+    {name:"Time Series Analysis",level:90,category:"Data Science"},
+    {name:"Big Data",level:50,category:"Data Science"},
+    {name:"Google Colab",level:90,category:"Data Science"},
+    {name:"Pandas",level:90,category:"Data Science"},
+    {name:"Numpy",level:90,category:"Data Science"},
+    {name:"MatplotLib",level:90,category:"Data Science"},
+    {name:"Data Cleaning/Preprocessing",level:90,category:"Data Science"},
+    {name:"Data Visualization",level:65,category:"Data Science"},
 
+    //AI/ML SKILLS
+    {name:"Machine Learning Algorithms",level:90,category:"AI"},
+    {name:"Deep Learning Alogirthms (Neural Networks)",level:90,category:"AI"},
+    {name:"Computer Vision",level:60,category:"AI"},
+    {name:"Scikit-learn",level:65,category:"AI"},
+    {name:"Tensor-Flow",level:55,category:"AI"},
+    {name:"Python",level:75,category:"AI"},
     
+    //SOFTWARE DEV SKILLS
+    {name:"C++",level:85,category:"Software Dev"},
+    {name:"Data Structures and Algorithms",level:80,category:"Software Dev"},
+    {name:"Object Oriented Programming",level:70,category:"Software Dev"},
+    {name:"Operating Systems",level:85,category:"Software Dev"},
+    {name:"Computer Networks",level:70,category:"Software Dev"},
+    {name:"DBMS",level:85,category:"Software Dev"},
+    {name:"Software Project Management",level:90,category:"Software Dev"},
+    {name:"VS CODE",level:80,category:"Software Dev"},
+
 ];
 
 const categories=["all","Web Dev", "Data Science","Software Dev ","AI"];
