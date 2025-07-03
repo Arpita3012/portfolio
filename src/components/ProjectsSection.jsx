@@ -8,7 +8,7 @@ const projects = [
     image: "s3.png",
     tags: ["React", "TailwindCSS", "MongoDB", "NodeJS"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Arpita3012/Soulwave",
   },
   {
     id: 2,
@@ -18,7 +18,7 @@ const projects = [
     image: "m0.png",
     tags: ["Python", "Streamlit", "Machine Learning"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Arpita3012/Multiple_Disease_Prediction-ML_PROJECT",
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const projects = [
     image: "d1.png",
     tags: ["Python", "Tkinter", "Naive Bayes Theorem"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Arpita3012/Diseasoguard-",
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ const projects = [
     image: "o6.png",
     tags: ["Python", "Time Series Analysis", "SARIMA", "LSTM"],
     demoUrl: "#",
-    githubUrl: "#",
+    githubUrl: "https://github.com/Arpita3012/Online-Food-Delivery-Analysis",
   },
 ];
 
