@@ -39,7 +39,7 @@ const skills=[
 
 ];
 
-const categories=["all","Web Dev", "Data Science","Software Dev ","AI"];
+const categories=["all","Web Dev", "Data Science","Software Dev","AI"];
 export const SkillsSection= ()=>{
 
     const [activeCategory, setActiveCategory]=useState("all");
